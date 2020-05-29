@@ -2,7 +2,7 @@
 EDA Loan Status Prediction
 
 # Drive
-https://drive.google.com/drive/folders/1yLYVppQSvF-7fRgQMoH29-Zsd0X5N4qS?usp=sharing
+https://drive.google.com/drive/folders/1Ll_MtwaUh5EWdgqRepYGrjV4RXZUyys6?usp=sharing
 
 # Contributors:-
 Gorantla Sasi Kumar,
