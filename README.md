@@ -7,5 +7,5 @@ https://drive.google.com/drive/folders/1Ll_MtwaUh5EWdgqRepYGrjV4RXZUyys6?usp=sha
 # Contributors:-
 Gorantla Sasi Kumar,
 Hiren Suresh Ambekar,
-Shreeramdas Venkata Harendra,
+Sreeramdas Venkata Harendra,
 Sujay Sunil Pujari,
