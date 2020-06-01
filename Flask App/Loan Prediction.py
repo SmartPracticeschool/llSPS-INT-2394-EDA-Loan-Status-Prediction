@@ -37,7 +37,7 @@ def predict():
       else:
           prediction="Loan Not To Be Granted"
 
-      return render_template('index.html',prediction=prediction)
+      return render_template('index.html',prediction="Prediction: "+prediction)
 
 if __name__=='__main__':
     app.run(debug=True)
